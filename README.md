@@ -1,6 +1,6 @@
 # 🧮 Calculadora 
 
-Calculadora hecha cib Python que permite realizar operaciones matemáticas básicas como suma, resta, multiplicación, división, potencia y raíz cuadrada. La calculadora también guarda el resultado de cada operación para usarlo en operaciones posteriores.
+Calculadora hecha con Python que permite realizar operaciones matemáticas básicas como suma, resta, multiplicación, división, potencia y raíz cuadrada. La calculadora también guarda el resultado de cada operación para usarlo en operaciones posteriores.
 
 # 📌 Características
 
